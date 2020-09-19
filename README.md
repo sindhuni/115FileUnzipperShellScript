@@ -21,9 +21,9 @@
 #                                                                                               #
 #   MACOS:                                                                                      #
 #   0. Unzip the tar file by double clicking on it								                      				#
-#	  1. Create a new folder to contain all of the files for the assignment you want to grade     #
+#   1. Create a new folder to contain all of the files for the assignment you want to grade     #
 #   2. Put this script and zip file downloaded from Blackboard into this folder                 #
-#   3. Running the script: open Terminal, drag this file onto Terminal window, and hit enter    #
+#   3. Running the script: open Terminal, drag the .sh file onto Terminal window, and hit enter #
 #   4. All the .py files should now be under "ReadyToGrade" in each student's corresponding personal folder (Assignment configuration)  #                                     
 #                                                                                               #
 #   NOTES:                                                                                      #
