@@ -15,7 +15,7 @@
 #   WINDOWS:                                                                                    #
 #   0. Download and install GitBash at https://git-scm.com/download/win							            #
 #	  1. Create a new folder to contain all of the files for the assignment you want to grade     #
-#   2. Put this script and zip file downloaded from Blackboard into this folder                 #
+#   2. Put the .sh script and zip file downloaded from Blackboard into this folder              #
 #   3. Run the script by double clicking on it                                                  #
 #   4. All the .py files should now be under "ReadyToGrade" in each student's corresponding personal folder (Assignment configuration) #
 #                                                                                               #
