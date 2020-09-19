@@ -1,6 +1,5 @@
 # 115FileUnzipperShellScript
-#################################################################################################
-#                                                                                               #
+
 #   name:   Sean Sindhunirmala                                                                  #
 #   email:  sindhuni@usc.edu                                                                    #
 #                                                                                               #
@@ -32,14 +31,12 @@
 #   NOTES:                                                                                      #
 #   - The program looks for python files starting with "ITP" in all subdirectories. If the	    #
 # 	  file is found, it is moved to the student's corresponding personal folder in			        #
-#		  "ReadyToGrade". If you want the program to search for files with a different starting     #
+#     "ReadyToGrade". If you want the program to search for files with a different starting     #
 # 		name, feel free to change it in the .sh file.									                            #
-#		- If the file is not found, this means that the student didn't properly name the file,      #
-#		  and the program moves all python files up to a depth of 2 subdirectory levels from	      #
-#		  the student's zipped folder to their peronsal folder in "ReadyToGrade". If you want 	    #
-#		  the program to move all the python files within all subdirectories instead of a depth	    #
-#		  of 2, feel free to change it in the .sh file.											                        #
-#		- The program can also handle situations when the student didn't zip the file and puts      #
-#		  the unzipped python file in a corresponding personal folder.							                #
-#																								                                                #
-#################################################################################################
+#     - If the file is not found, this means that the student didn't properly name the file,    #
+# 	  and the program moves all python files up to a depth of 2 subdirectory levels from	      #
+# 	  the student's zipped folder to their peronsal folder in "ReadyToGrade". If you want 	    #
+# 	  the program to move all the python files within all subdirectories instead of a depth	    #
+#  	  of 2, feel free to change it in the .sh file.											                        #
+#   - The program can also handle situations when the student didn't zip the file and puts      #
+# 	  the unzipped python file in a corresponding personal folder.							                #
