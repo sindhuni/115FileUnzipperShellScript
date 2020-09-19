@@ -25,8 +25,7 @@
 #	  1. Create a new folder to contain all of the files for the assignment you want to grade     #
 #   2. Put this script and zip file downloaded from Blackboard into this folder                 #
 #   3. Running the script: open Terminal, drag this file onto Terminal window, and hit enter    #
-#   4. All the .py files should now be under "ReadyToGrade" in each student's corresponding     #
-#      personal folder (Assignment configuration)                                               #
+#   4. All the .py files should now be under "ReadyToGrade" in each student's corresponding personal folder (Assignment configuration)  #                                     
 #                                                                                               #
 #   NOTES:                                                                                      #
 #   - The program looks for python files starting with "ITP" in all subdirectories. If the file is found, it is moved to the student's corresponding personal folder in "ReadyToGrade". If you want the program to search for files with a different starting name, feel free to change it in the .sh file. #
